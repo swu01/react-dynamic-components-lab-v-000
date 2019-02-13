@@ -54,4 +54,4 @@ export default class BlogPost extends Component {
     );
   }
 }
->>>>>>> d7eeac9b081145a5b9f2a4a68aea6b96e1b1a637
+
