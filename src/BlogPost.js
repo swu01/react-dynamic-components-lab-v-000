@@ -25,7 +25,7 @@ export default class BlogPost extends Component {
     );
   }
 }
-=======
+
 import React, { Component } from "react";
 import Comment from "./Comment";
 
